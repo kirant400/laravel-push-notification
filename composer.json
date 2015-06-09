@@ -1,15 +1,15 @@
 {
-    "name": "davibennun/laravel-push-notification",
-    "description": "Laravel package to send push notifications to mobile devices (apns, gcm)",
-    "keywords": ["apns","gcm","push","notification", "laravel"],
+    "name": "kirant400/laravel-push-notification",
+    "description": "Laravel package to send push notifications to mobile devices (apns, gcm,wpn,Blackberry)",
+    "keywords": ["apns","gcm","push","notification", "laravel","Blackberry","windows phone"],
     "authors": [
         {
             "name": "DaviBenNun",
             "email": "davi@andradenunes.org"
         },
         {
-            "name": "DaviBenNun",
-            "email": "davi@andradenunes.org"
+            "name": "kirant400",
+            "email": "kirant400@gmail.com"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Davibennun\\LaravelPushNotification": "src/"
+            "Nirays\\LaravelPushNotification": "src/"
         }
     },
     "minimum-stability": "dev"
