@@ -1,7 +1,7 @@
-<?php namespace Davibennun\LaravelPushNotification;
+<?php namespace Nirays\LaravelPushNotification;
 
 use Illuminate\Support\ServiceProvider,
-    Davibennun\LaravelPushNotification\PushNotification;
+    Nirays\LaravelPushNotification\PushNotification;
 
 class LaravelPushNotificationServiceProvider extends ServiceProvider {
 
